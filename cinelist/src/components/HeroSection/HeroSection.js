@@ -1,6 +1,7 @@
 import React from 'react';
 import '../../App.css';
 import { Button } from '../Button/Button';
+import { Button2 } from '../Button2/Button2';
 import { Link } from 'react-router-dom'
 import './HeroSection.css';
 
@@ -19,14 +20,14 @@ function HeroSection() {
           SE INSCREVER
         </Button>
 
-        <Button
+        <Button2
         className='btns'
         buttonStyle='btn--primary'
         buttonSize='btn--large'
         onClick={console.log('hey')}
       >
         VER MINHA LISTA <i className='far fa-play-circle' />
-        </Button>
+        </Button2>
 
       </div>
     </div>

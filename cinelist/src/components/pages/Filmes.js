@@ -9,7 +9,7 @@ export default function Filmes(){
 
     <div className="app">
 
-    <Row  id="NO" fetchUrl={requests.fetchNetflixOriginals} isLargeRow/>
+    <Row title="Top Rated" id="TM" fetchUrl={requests.fetchTopRated} isLargeRow/>
 
     <Row title="Trending Now" id="TN" fetchUrl={requests.fetchTrending} />
 

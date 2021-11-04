@@ -27,6 +27,23 @@
   font-weight: 600;
   font-size: 18px;
 }
+
+.minha-lista {
+  display: flex;
+  flex-direction: column; 
+  text-align: center;
+}
+.minha-lista-btn{
+  align-self: center;
+  display: flex;
+  flex-direction: column; 
+  margin-left: 550px;
+  text-align: center;
+}
+
+.minha-lista-txt {
+  text-align: center;
+}
 .modal__overview {
   font-size: 20px;
   line-height: 1.5;
