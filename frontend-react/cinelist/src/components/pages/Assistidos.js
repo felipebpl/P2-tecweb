@@ -17,10 +17,10 @@ export default function Assistidos(){
     }, []);
 
     return (
-    // <h1 className="assistidos"> MINHA LISTA</h1>
+   
     <div>
-      {/* <span className="btn-icon btn-edit" onClick={loadData}><i className="fas fa-trash-alt"></i></span> */}
-
+      <h1 className="assistidos"> MINHA LISTA</h1>
+      <button onClick={loadData}>GET FILMES</button>
       <Minhalista filmesList={filmes} loadData={loadData}/>
     </div>
 
