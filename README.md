@@ -12,7 +12,8 @@ Página de filmes e séries feita em React e backend feito em Django REST framew
 
 ### API :
 
-- The Movie Database : "https://api.themoviedb.org/3" 
+- The Movie Database : https://www.themoviedb.org/
+- Para desenvolvedores: https://api.themoviedb.org/3
 
 ### Propostas para A+: 
 
