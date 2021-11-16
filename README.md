@@ -2,7 +2,7 @@
 
 Página de filmes e séries feita em React e backend feito em Django REST framework. 
 
-Funcionalidades:
+### Funcionalidades:
 
 - Acesso a filmes de diferentes gêneros, disponibilizando mais informações sobre o mesmo (trailer, data, descrição, etc.)
 - Acesso a séries de diferentes gêneros, disponibilizando mais informações sobre o mesmo (trailer, data, descrição, etc.)
@@ -10,11 +10,11 @@ Funcionalidades:
 - Deploy da aplicação do django no utilizando o Heroku: https://cinelist-backend.herokuapp.com/minha-lista/
 - Banco de dados utilizando Docker e postgrees 
 
-API :
+### API :
 
 - The Movie Database : "https://api.themoviedb.org/3" 
 
-Propostas para A+: 
+### Propostas para A+: 
 
 - Estilo da página 
 - Usabilidade de navegação entre filmes/séries voltadas para a melhor experiência do usuário. 
