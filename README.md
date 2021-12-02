@@ -7,7 +7,7 @@ Página de filmes e séries feita em React e backend feito em Django REST framew
   - Tava dando certo depois que eu migrei o backend do sqlite3 para o postgree, porém parece que depois que eu commitei estava dando erro de conexão com o banco de dados.
   - Fiz uma branch ("sqlite3") utilizando o sqlite que roda perfeitamente. 
 - FRONTEND
-  - Antes rodando perfeitamente como mostrado na aula, porém erro de rodar depois do ultimo commit. O erro ocorria pois faltava a pasta node modules. Para resolver basta entrar na pasta frontend-rect/cinelist/ e rodar no terminal: $ npm install. Depois basta dar $ npm start e o frontendo funcionará perfeitamente. 
+  - Antes rodando perfeitamente como mostrado na aula, porém erro de rodar depois do ultimo commit. O erro ocorria pois faltava a pasta node modules. Para resolver basta entrar na pasta frontend-react/cinelist/ e rodar no terminal: $ npm install. Depois basta dar $ npm start e o frontendo funcionará perfeitamente. 
 
 
 ### Funcionalidades:
