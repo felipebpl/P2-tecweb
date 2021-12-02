@@ -2,6 +2,14 @@
 
 Página de filmes e séries feita em React e backend feito em Django REST framework. 
 
+# OBSERVAÇÃO PARA A CORREÇÃO (percebi estudando para a prova final)
+- BACKEND
+-- Tava dando certo depois que eu migrei o backend do sqlite3 para o postgree, porém parece que depois que eu commitei estava dando erro de conexão com o banco de dados.
+-- Fiz uma branch ("sqlite3") utilizando o sqlite que roda perfeitamente. 
+- FRONTEND
+-- Antes rodando perfeitamente como mostrado na aula, porém erro de rodar depois do ultimo commit.O erro ocorria pois faltava a pasta node modules. Para resolver basta entrar na pasta cinelist e rodar no terminal: $ npm start. Depois basta dar $npm start e o frontendo funcionará perfeitamente. 
+-- Commitei com o correto na branch "sqlite3".
+
 ### Funcionalidades:
 
 - Acesso a filmes de diferentes gêneros, disponibilizando mais informações sobre o mesmo (trailer, data, descrição, etc.)
